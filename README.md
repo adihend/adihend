@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About me
 - 📖 I’m currently **IE** student
-- 🔭 I’m currently working ***@aseeceducation***.
+- 🔭 I’m currently working as Researcher ***@aseeceducation***.
 
 ###
 
